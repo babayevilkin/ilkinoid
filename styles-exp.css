@@ -35,3 +35,14 @@ a:hover {
   display: table;
   font-size: 20px;
 }
+
+table {
+  text-align: left;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-bottom: 1px solid;
+  color: darkgreen;
+}
